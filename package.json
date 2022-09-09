@@ -1,6 +1,5 @@
 {
   "type": "module",
-  "private": true,
   "workspaces": [
     "src/apps/*",
     "src/packages/*"

@@ -2,7 +2,8 @@
   "type": "module",
   "private": true,
   "workspaces": [
-    "src/*"
+    "src/apps/*",
+    "src/packages/*"
   ],
   "scripts": {
     "postinstall": "turbo run postinstall",
